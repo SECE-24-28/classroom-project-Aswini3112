@@ -1,0 +1,50 @@
+
+/* .box{
+    height: 80px;
+    width: 80px;
+}
+.red{
+    background-color: red;
+    color: aqua;
+}
+.blue{
+    background-color: blue; */
+    /* color: white;
+} */
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+}
+.demoStyles{
+    font-size:x-large;
+}
+.light{
+    color: black;
+    background-color: white;
+}
+.dark{
+    color: white;
+    background-color: black;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-color: transparent;
+    align-items: center;
+    gap:"100px";
+}
+.btn{
+    padding: 10px 15px;
+    border-radius: 50px;
+    font-size:xx-large;
+    background-color:rgb(36,36,160);
+    color: white;
+    font-weight: 600;
+}
+.btn:hover{
+    background-color: pink;
+    console.log("");
+}
